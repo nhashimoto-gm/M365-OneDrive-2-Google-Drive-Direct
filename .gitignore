@@ -1,0 +1,9 @@
+.env
+gdrive_credentials.json
+gdrive_token.json
+migration_state.json
+migration.log
+tmp/
+.venv/
+__pycache__/
+*.pyc
